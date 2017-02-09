@@ -1,0 +1,3 @@
+Adafruit-Python-DHT==1.1.2
+paho-mqtt==1.2
+configparser==3.5.0
